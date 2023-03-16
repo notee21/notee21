@@ -1,4 +1,4 @@
-## Oii! Eu sou o Miguel e estou aprendendo a programar 😊
+## The quieter you become, the more you are able to hear.
  <div>
   <a href="https://github.com/notee21">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=notee21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
